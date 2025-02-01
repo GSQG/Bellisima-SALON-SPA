@@ -1,7 +1,3 @@
 {
-<<<<<<< Updated upstream
-    "livePreview.defaultPreviewPath": "/index.html"
-=======
     "liveServer.settings.port": 5501
->>>>>>> Stashed changes
 }
